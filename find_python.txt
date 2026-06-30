@@ -1,0 +1,8 @@
+C:\Users\Emmet Wilkinson\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\Emmet Wilkinson\AppData\Local\Python\bin\python.exe
+C:\Users\Emmet Wilkinson\AppData\Local\Microsoft\WindowsApps\python3.exe
+C:\Users\Emmet Wilkinson\AppData\Local\Python\bin\python3.exe
+C:\Users\Emmet Wilkinson\AppData\Local\Microsoft\WindowsApps\py.exe
+Python 3.14.6
+pip 26.1.2 from C:\Users\Emmet Wilkinson\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pip (python 3.14)
+DONE 
